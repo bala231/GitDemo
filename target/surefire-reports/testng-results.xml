@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="60" started-at="2021-12-28T15:29:27 IST" finished-at="2021-12-28T15:29:27 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="60" started-at="2021-12-28T15:29:27 IST" finished-at="2021-12-28T15:29:27 IST">
+      <class name="testProject.Mavenjava.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:testProject.Mavenjava.SeleniumTest@5faeada1]" name="BrowserAutomation" duration-ms="1" started-at="2021-12-28T15:29:27 IST" finished-at="2021-12-28T15:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="ElemetsUi()[pri:0, instance:testProject.Mavenjava.SeleniumTest@5faeada1]" name="ElemetsUi" duration-ms="0" started-at="2021-12-28T15:29:27 IST" finished-at="2021-12-28T15:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ElemetsUi -->
+      </class> <!-- testProject.Mavenjava.SeleniumTest -->
+      <class name="testProject.Mavenjava.RestAPITest">
+        <test-method status="PASS" signature="DeleteTwitter()[pri:0, instance:testProject.Mavenjava.RestAPITest@528931cf]" name="DeleteTwitter" duration-ms="0" started-at="2021-12-28T15:29:27 IST" finished-at="2021-12-28T15:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DeleteTwitter -->
+        <test-method status="PASS" signature="PosrJira()[pri:0, instance:testProject.Mavenjava.RestAPITest@528931cf]" name="PosrJira" duration-ms="1" started-at="2021-12-28T15:29:27 IST" finished-at="2021-12-28T15:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PosrJira -->
+      </class> <!-- testProject.Mavenjava.RestAPITest -->
+      <class name="testProject.Mavenjava.AppiumTest">
+        <test-method status="PASS" signature="NativeAppAndroid()[pri:0, instance:testProject.Mavenjava.AppiumTest@1f57539]" name="NativeAppAndroid" duration-ms="7" started-at="2021-12-28T15:29:27 IST" finished-at="2021-12-28T15:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppAndroid -->
+        <test-method status="PASS" signature="NativeAppIOS()[pri:0, instance:testProject.Mavenjava.AppiumTest@1f57539]" name="NativeAppIOS" duration-ms="0" started-at="2021-12-28T15:29:27 IST" finished-at="2021-12-28T15:29:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeAppIOS -->
+      </class> <!-- testProject.Mavenjava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
