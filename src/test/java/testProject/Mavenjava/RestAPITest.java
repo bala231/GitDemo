@@ -10,7 +10,8 @@ public class RestAPITest {
 	public void PosrJira() {
 		
 		System.out.println("PostJira Test");
-		
+		System.out.println("PostJira Test1");
+		System.out.println("PostJira Test2");
 	
 	}
 	@Test
